@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contect-api/static/css/main.16689e35.css",
+    "main.js": "/contect-api/static/js/main.b11a0737.js",
+    "static/js/787.4d668c4f.chunk.js": "/contect-api/static/js/787.4d668c4f.chunk.js",
+    "index.html": "/contect-api/index.html",
+    "main.16689e35.css.map": "/contect-api/static/css/main.16689e35.css.map",
+    "main.b11a0737.js.map": "/contect-api/static/js/main.b11a0737.js.map",
+    "787.4d668c4f.chunk.js.map": "/contect-api/static/js/787.4d668c4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16689e35.css",
+    "static/js/main.b11a0737.js"
+  ]
+}
